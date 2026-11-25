@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/snycloud/launch-deck-update/releases/download/v1.2.0/LaunchDeckSetup-1.2.0.exe",
+  "version": "1.1.0",
+  "url": "https://github.com/snycloud/launch-deck-update/releases/download/v1.1.0/LaunchDeckSetup-1.1.0.exe",
   "sha256": "0561e6bde25eb9f60b6df6ef9fb7393c88b015236c635ee191b81e673d4068f3",
-  "notes": "自更新链路验证版本（E2E）"
+  "notes": "LaunchDeck 首个正式版本：全屏启动台 + 应用库 + 自更新"
 }
