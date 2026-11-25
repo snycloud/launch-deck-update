@@ -1,6 +1,6 @@
 {
+  "sha256": "9903963a4b9de49ce892bde336dc62f1b746a63c0ef2c9eb00dbaa04f743fd01",
+  "notes": "LaunchDeck 首个正式版本：全屏启动台 + 应用库 + 自更新",
   "version": "1.1.0",
-  "sha256": "102fae02d7414bc0657b5eb1c5af6a445a12f3704927d0ca79400f1ab35b0535",
-  "url": "https://github.com/snycloud/launch-deck-update/releases/download/v1.1.0/LaunchDeckSetup-1.1.0.exe",
-  "notes": "LaunchDeck 首个正式版本：全屏启动台 + 应用库 + 自更新"
+  "url": "https://github.com/snycloud/launch-deck-update/releases/download/v1.1.0/LaunchDeckSetup-1.1.0.exe"
 }
