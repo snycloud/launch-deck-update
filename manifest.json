@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/snycloud/launch-deck-update/releases/download/v0.9.0-beta.2/LaunchDeckSetup-0.9.0-beta.2.exe",
-  "notes": "LaunchDeck 预发布版 0.9.0-beta.2",
-  "version": "0.9.0-beta.2",
-  "sha256": "4d90fe6a75f3d9e35543848266733ecb3bb8b240999c803a0f5409bd89ec40ee"
+  "version": "0.9.0-beta.3",
+  "sha256": "d6b35054cde115dc949b10328f41de3cf9c903c60565e3fceba60c45957210bd",
+  "notes": "LaunchDeck 预发布版 0.9.0-beta.3：托盘与设置里可查看当前版本",
+  "url": "https://github.com/snycloud/launch-deck-update/releases/download/v0.9.0-beta.3/LaunchDeckSetup-0.9.0-beta.3.exe"
 }
